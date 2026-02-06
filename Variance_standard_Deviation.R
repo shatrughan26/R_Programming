@@ -1,0 +1,5 @@
+data <- c(4,5,6,7,8)
+variance <- var(data)
+standard_deviation <- sd(data)
+print(paste("Variance:", variance))
+print(paste("Standard Deviation:", standard_deviation))

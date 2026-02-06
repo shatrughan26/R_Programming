@@ -1,0 +1,6 @@
+x <- c(3,4,5,6,7)
+y <- c(10,12,13,14,16)
+covariance <- cov(x, y)
+correlation <- cor(x, y)
+print(paste("Covariance:", covariance))
+print(paste("Correlation:", correlation))

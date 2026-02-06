@@ -1,0 +1,1 @@
+print(diag(c(5,3,3), nrow=3, ncol=3))
